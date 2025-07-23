@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# feedback-api
-=======
 # 🧠 Analisador de Feedback / Feedback Analyzer
 
 Este projeto é uma aplicação web simples para análise de sentimentos em feedbacks, construída com **FastAPI** no backend e uma interface frontend em HTML/CSS/JS. Utiliza a **API da OpenAI** para classificar sentimentos como **Satisfeito**, **Insatisfeito** e **Neutro**.
@@ -122,4 +119,3 @@ docker run -p 8000:8000 feedback-api
 Desenvolvido por / Developed by  
 **Raffael Wustemberg**  
 [LinkedIn](https://www.linkedin.com/in/raffaelwm/)  
->>>>>>> 4387929 (Inicialização do projeto - Analise de sentimentos com GPT)
