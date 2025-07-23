@@ -6,6 +6,15 @@ This project is a simple web application for sentiment analysis on feedbacks, bu
 
 ---
 
+## 📢 Demonstração / Demo
+
+Você pode testar a aplicação diretamente no seu navegador, sem precisar instalar nada.
+You can test the application directly in your browser, no installation needed.
+
+[https://feedback-api-latest.onrender.com/](Clique aqui!/Click here!)
+
+---
+
 ## 🚀 Funcionalidades / Features
 
 - Envio de texto de feedback pelo frontend  
